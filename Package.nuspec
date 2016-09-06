@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <package >
   <metadata>
-    <id>MethodInvoker</id>
+    <id>AssemblyInvoker</id>
     <version>0.1</version>
     <authors>RasmusKromann-Larsen</authors>
     <owners>RasmusKromann-Larsen</owners>
