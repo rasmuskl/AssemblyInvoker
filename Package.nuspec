@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>MethodInvoker</id>
+    <version>0.1</version>
+    <authors>RasmusKromann-Larsen</authors>
+    <owners>RasmusKromann-Larsen</owners>
+    <projectUrl>https://github.com/rasmuskl/AssemblyInvoker</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Tool for invoking methods in assembly from command line.</description>
+    <copyright>Copyright 2016</copyright>
+  </metadata>
+  <files>
+    <file src="AssemblyInvoker\bin\Release\AssemblyInvoker.exe" target="tools" /> 
+  </files>
+</package>
